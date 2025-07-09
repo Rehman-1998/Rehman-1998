@@ -37,6 +37,9 @@ This project is a Nuxt-based e-commerce platform featuring product catalog brows
 ### 🧩 Modular Backend Platform (NestJS + MongoDB)  
 This project is a backend application built with NestJS, utilizing MongoDB via Mongoose for data storage and management. It features a modular architecture, supporting various business domains such as appointments, users, payments, analytics, and more. The codebase includes robust repository patterns, DTOs, and interfaces to ensure maintainability and scalability. It is designed to power a service-oriented platform, likely for managing business operations, appointments, and user interactions.
 
+### 🤖 AI-Powered Support & Automation Tools (OpenAI + Node.js)  
+Developed intelligent automation tools using OpenAI's GPT APIs integrated with Node.js applications. These include AI-driven chat assistants, content generators, and task automation scripts for internal operations. The tools enhance user engagement, reduce manual effort, and provide smart, context-aware interactions for various business workflows.
+
 ### 🏆 Live Scoreboard System  
 Built a real-time API-based scoreboard platform with secure score updates and WebSocket integration, optimized for performance and minimal latency.
 
