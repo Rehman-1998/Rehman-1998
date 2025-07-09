@@ -1,43 +1,49 @@
-Hi, I'm Abdul Rehman! 👋🏼
-I'm a Fullstack JavaScript Developer with over 4 years of hands-on experience in building scalable web applications and high-performance backend systems.
+# Hi, I'm Abdul Rehman! 👋🏼  
+I'm a **Fullstack JavaScript Developer** with over **4 years of hands-on experience** in building scalable web applications and high-performance backend systems.
 
-🚀 Tech Stack & Skills
-Languages & Frameworks:
-👉 JavaScript, TypeScript, Node.js, Express.js, NestJS, Vue.js, Nuxt.js, React.js, Next.js
-👉 GraphQL, RESTful APIs, Apollo GraphQL
+---
 
-UI & Styling:
-👉 Tailwind CSS, Bootstrap, SCSS, MUI, Ant Design
+## 🚀 Tech Stack & Skills
 
-Databases:
-👉 MongoDB, PostgreSQL, MySQL, AWS RDS, Redis
+**Languages & Frameworks:**  
+👉 JavaScript, TypeScript, Node.js, Express.js, NestJS, Vue.js, Nuxt.js, React.js, Next.js  
+👉 GraphQL, RESTful APIs, Apollo GraphQL  
 
-DevOps & Cloud:
-👉 Docker, AWS (Lambda, S3, API Gateway, Cognito, SES), GCP (Cloud Functions, Buckets), CI/CD Pipelines
+**UI & Styling:**  
+👉 Tailwind CSS, Bootstrap, SCSS, MUI, Ant Design  
 
-Tools & Platforms:
-👉 Git, GitHub, Jira, Trello, Asana, Postman, Vercel, Netlify
+**Databases:**  
+👉 MongoDB, PostgreSQL, MySQL, AWS RDS, Redis  
 
-AI Integration:
-👉 OpenAI APIs for AI-powered tools, chat interfaces, and automated workflows
+**DevOps & Cloud:**  
+👉 Docker, AWS (Lambda, S3, API Gateway, Cognito, SES), GCP (Cloud Functions, Buckets), CI/CD Pipelines  
 
-🌟 Featured Projects
-🏆 Live Scoreboard System
+**Tools & Platforms:**  
+👉 Git, GitHub, Jira, Trello, Asana, Postman, Vercel, Netlify  
+
+**AI Integration:**  
+👉 OpenAI APIs for AI-powered tools, chat interfaces, and automated workflows  
+
+---
+
+## 🌟 Featured Projects
+
+### 💼 OpenTalent Platform  
+OpenTalent is a comprehensive platform designed to connect freelancers and organizations, streamlining project management, contracts, and collaboration. It features robust tools for talent discovery, milestone tracking, and secure communication — empowering both companies and independent professionals to work efficiently together.
+
+### 🛍️ B2B E-Commerce Platform (Nuxt + CommerceTools)  
+This project is a Nuxt-based e-commerce platform featuring product catalog browsing, detailed product pages, and customer account management. It integrates with CommerceTools for product data, supports advanced inventory and pricing logic, and provides a modern, responsive user interface for B2B dental and medical supply shopping.
+
+### 🧩 Modular Backend Platform (NestJS + MongoDB)  
+This project is a backend application built with NestJS, utilizing MongoDB via Mongoose for data storage and management. It features a modular architecture, supporting various business domains such as appointments, users, payments, analytics, and more. The codebase includes robust repository patterns, DTOs, and interfaces to ensure maintainability and scalability. It is designed to power a service-oriented platform, likely for managing business operations, appointments, and user interactions.
+
+### 🏆 Live Scoreboard System  
 Built a real-time API-based scoreboard platform with secure score updates and WebSocket integration, optimized for performance and minimal latency.
 
-🛒 CommerceTools Product API
-Developed robust filtering, search, and catalog systems using CommerceTools — including attribute sanitization, facet filtering, and dynamic pagination.
+---
 
-📦 Hibachi Party Service Platform
-Designed a custom booking and scheduling system with location-based availability, pricing logic, and smooth mobile UX for a home-chef service.
+## 🤝 Let’s Collaborate!
 
-🎨 Dynamic Wix & Squarespace Sites
-Created over 500+ Wix/Squarespace projects, including modal popups, custom booking workflows, responsive layouts, and embedded scheduling tools.
-
-📚 Catalog Navigation System (Nuxt.js)
-Developed an SEO-friendly Nuxt.js app for browsing product catalogs with intelligent routing, filters, and real-time updates across pages.
-
-🤝 Let’s Collaborate!
 I specialize in building fast, clean, and maintainable solutions — whether you're scaling a SaaS product, launching an eCommerce store, or building internal tools. I think like a designer for UX and like an engineer for architecture.
 
-Feel free to reach out if you'd like to work together on a project or need help bringing your idea to life!
+**Feel free to reach out** if you'd like to work together on a project or need help bringing your idea to life!
