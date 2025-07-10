@@ -1,9 +1,11 @@
 ## 👨‍💻 About Me
 
-# Hi, I'm Abdul Rehman! 👋🏼  
-Software Engineer with a **Bachelor's in Computer Science** and over **5 years of experience** in full-stack development. Skilled in building scalable web applications, AI-integrated solutions, and LLM-based tools.
+## 👋 Hi, I'm Abdul Rehman!
 
-Proven track record of improving efficiency and product quality through modern development practices in **Agile environments**. Looking for opportunities where strong problem-solving, technical expertise, and a deep understanding of the **Software Development Lifecycle (SDLC)** can drive real business impact.
+I'm a **Software Engineer** with a **Bachelor's in Computer Science** and over **5 years** of hands-on experience in **full-stack development**. I’ve worked on building **scalable web applications**, integrating **AI features**, and developing tools powered by **large language models (LLMs)**.
+
+I enjoy solving real-world problems through **clean, efficient code** and have a strong focus on writing **maintainable systems**. In **Agile teams**, I’ve helped improve both **product quality** and **development speed** by following best practices across the **Software Development Lifecycle (SDLC)**. I'm always open to meaningful opportunities where I can make an impact through **smart engineering** and **thoughtful collaboration**.
+
 
 ---
 
