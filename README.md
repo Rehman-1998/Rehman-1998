@@ -37,20 +37,17 @@ I enjoy solving real-world problems through **clean, efficient code** and have a
 
 ## 🌟 Featured Projects
 
-### 💼 OpenTalent Platform  
+### 💼 [OpenTalent Platform](https://freelandersadev.z38.web.core.windows.net/)
 OpenTalent is a comprehensive platform designed to connect freelancers and organizations, streamlining project management, contracts, and collaboration. It features robust tools for talent discovery, milestone tracking, and secure communication — empowering both companies and independent professionals to work efficiently together.
 
-### 🛍️ B2B E-Commerce Platform (Nuxt + CommerceTools)  
-This project is a Nuxt-based e-commerce platform featuring product catalog browsing, detailed product pages, and customer account management. It integrates with CommerceTools for product data, supports advanced inventory and pricing logic, and provides a modern, responsive user interface for B2B dental and medical supply shopping.
+### 🧠 [Promap AI](https://www.promap.ai/)
+Promap AI is an AI-driven recruitment platform that streamlines the hiring process for technical roles. It autonomously sources candidates, conducts in-depth skill-based interviews using advanced conversational AI, and provides data-backed hiring recommendations, enabling companies to build world-class teams efficiently.
 
-### 🧩 Modular Backend Platform (NestJS + MongoDB)  
-This project is a backend application built with NestJS, utilizing MongoDB via Mongoose for data storage and management. It features a modular architecture, supporting various business domains such as appointments, users, payments, analytics, and more. The codebase includes robust repository patterns, DTOs, and interfaces to ensure maintainability and scalability. It is designed to power a service-oriented platform, likely for managing business operations, appointments, and user interactions.
+### 📚 [Leo AI – Grading Assistant](https://www.withleo.ai/)
+Leo AI is an intelligent grading assistant designed to streamline the grading process for educators. Built with cutting-edge technologies like Next.js, Redux, Node.js, AWS Lambda, and AWS ECS, this platform automates repetitive grading tasks, enabling teachers to provide faster, more meaningful feedback. With Leo AI, educators can focus on what truly matters — engaging with students and enhancing the learning experience.
 
-### 🤖 AI-Powered Support & Automation Tools (OpenAI + Node.js)  
-Developed intelligent automation tools using OpenAI's GPT APIs integrated with Node.js applications. These include AI-driven chat assistants, content generators, and task automation scripts for internal operations. The tools enhance user engagement, reduce manual effort, and provide smart, context-aware interactions for various business workflows.
-
-### 🏆 Live Scoreboard System  
-Built a real-time API-based scoreboard platform with secure score updates and WebSocket integration, optimized for performance and minimal latency.
+### 🧩 [Modular Backend Platform (NestJS + MongoDB)](https://yupup.com/)
+A scalable backend system built with NestJS and MongoDB using Mongoose. It follows a modular architecture and supports key business modules like users, appointments, payments, and analytics. Designed for service-based platforms, it leverages repository patterns, DTOs, and interfaces to ensure code maintainability and clean separation of concerns.
 
 ---
 
