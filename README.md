@@ -12,23 +12,26 @@ I enjoy solving real-world problems through **clean, efficient code** and have a
 ## 🚀 Tech Stack & Skills
 
 **Languages & Frameworks:**  
-👉 JavaScript, TypeScript, Node.js, Express.js, NestJS, Vue.js, Nuxt.js, React.js, Next.js  
-👉 GraphQL, RESTful APIs, Apollo GraphQL  
+👉 JavaScript, TypeScript, Node.js, Express.js, NestJS, React.js, Next.js, Vue.js, Nuxt.js, Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
 
-**UI & Styling:**  
-👉 Tailwind CSS, Bootstrap, SCSS, MUI, Ant Design  
+**Web Technologies & Architecture:**  
+👉 HTML, CSS, Tailwind CSS, SCSS, Bootstrap, Material-UI (MUI), Ant Design, GraphQL, REST APIs, Apollo GraphQL, Microservices, Serverless Architecture  
 
 **Databases:**  
-👉 MongoDB, PostgreSQL, MySQL, AWS RDS, Redis  
+👉 MongoDB, PostgreSQL, MySQL, AWS RDS, Redis, Supabase  
 
-**DevOps & Cloud:**  
-👉 Docker, AWS (Lambda, S3, API Gateway, Cognito, SES), GCP (Cloud Functions, Buckets), CI/CD Pipelines  
+**DevOps & Cloud Platforms:**  
+👉 Docker, AWS (Lambda, S3, API Gateway, SES, Cognito), GCP (Cloud Functions, Buckets), Azure, DigitalOcean, CI/CD Pipelines  
 
-**Tools & Platforms:**  
-👉 Git, GitHub, Jira, Trello, Asana, Postman, Vercel, Netlify  
+**AI & Machine Learning:**  
+👉 OpenAI APIs, LLM Integration, Data Structures & Algorithms, Deep Learning, Recommender Systems, Natural Language Processing (NLP), Data Processing  
 
-**AI Integration:**  
-👉 OpenAI APIs for AI-powered tools, chat interfaces, and automated workflows  
+**Tools & Collaboration:**  
+👉 Git, GitHub, Bitbucket, Jira, Trello, Asana, Postman, Figma, HubSpot, GoHighLevel, Vercel, Netlify, Version Control  
+
+**Testing & Methodologies:**  
+👉 Jest, Unit Testing, Agile, Scrum, TDD (Test-Driven Development)
+
 
 ---
 
