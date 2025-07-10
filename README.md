@@ -37,8 +37,8 @@ I enjoy solving real-world problems through **clean, efficient code** and have a
 
 ## 🌟 Featured Projects
 
-### 💼 [OpenTalent Platform](https://freelandersadev.z38.web.core.windows.net/)
-OpenTalent is a comprehensive platform designed to connect freelancers and organizations, streamlining project management, contracts, and collaboration. It features robust tools for talent discovery, milestone tracking, and secure communication — empowering both companies and independent professionals to work efficiently together.
+### 💼 [OpenTalent AI](https://freelandersadev.z38.web.core.windows.net/)
+OpenTalent is a platform that connects freelancers and organizations, streamlining project management and collaboration. It uses advanced AI—powered by Microsoft Semantic Kernel and Azure OpenAI—for natural language talent search and smart CV parsing. Companies can discover relevant freelancers through semantic, vector-based search, while freelancers benefit from AI-driven profile enhancement. These intelligent features enable efficient, context-aware matching and communication for all users.
 
 ### 🧠 [Promap AI](https://www.promap.ai/)
 Promap AI is an AI-driven recruitment platform that streamlines the hiring process for technical roles. It autonomously sources candidates, conducts in-depth skill-based interviews using advanced conversational AI, and provides data-backed hiring recommendations, enabling companies to build world-class teams efficiently.
