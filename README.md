@@ -1,5 +1,9 @@
+## 👨‍💻 About Me
+
 # Hi, I'm Abdul Rehman! 👋🏼  
-I'm a **Fullstack JavaScript Developer** with over **4 years of hands-on experience** in building scalable web applications and high-performance backend systems.
+Software Engineer with a **Bachelor's in Computer Science** and over **4 years of experience** in full-stack development. Skilled in building scalable web applications, AI-integrated solutions, and LLM-based tools.
+
+Proven track record of improving efficiency and product quality through modern development practices in **Agile environments**. Looking for opportunities where strong problem-solving, technical expertise, and a deep understanding of the **Software Development Lifecycle (SDLC)** can drive real business impact.
 
 ---
 
